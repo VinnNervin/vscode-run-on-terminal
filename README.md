@@ -1,3 +1,7 @@
+[Direct Download](https://github.com/VinnNervin/vscode-run-on-terminal/releases/download/v1.1.0/run-on-terminal-1.1.0.vsix) 🗃️
+
+[View Releases](https://github.com/VinnNervin/vscode-run-on-terminal/releases) 🚀
+
 ### Language Support
 - [Indonesia](#language-id)
 - [English](#language-en)
