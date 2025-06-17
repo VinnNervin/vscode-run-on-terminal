@@ -1,0 +1,12 @@
+.vscode/**
+vsc-extension-quickstart.md
+README-ID.md
+README-EN.md
+node_modules
+dist
+.tesing-saja
+history
+*.vsix
+CHANGELOG.md
+.vscodeignore
+
